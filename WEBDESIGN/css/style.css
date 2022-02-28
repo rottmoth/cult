@@ -1,0 +1,49 @@
+body{
+/*background image credit goes to username: surferrosaluxembourg
+ https://imgur.com/a/BmMyOOX*/
+    background-image: url("../images/windows_bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+path{
+    color: aliceblue;
+}
+.img-trash{
+    width: 75px;
+}
+
+.img-internet{
+    width: 75px;
+}
+
+.img-files{
+    width: 75px;
+}
+
+.img-diary{
+    width: 75px;
+}
+
+.img-window{
+    width: 75px;
+}
+
+.img-virus{
+    width: 75px;
+}
+
+.img-eye{
+    width: 75px;
+}
+
+.img-with-text {
+    text-align: center;
+    width: 75px;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
